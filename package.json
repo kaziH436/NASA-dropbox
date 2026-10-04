@@ -1,0 +1,17 @@
+{
+  "name": "nasa-dropbox",
+  "version": "1.0.0",
+  "description": "NASA-to-Dropbox synchronous request pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nasa",
+    "dropbox",
+    "http-server",
+    "callback-pattern"
+  ],
+  "license": "MIT"
+}
